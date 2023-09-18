@@ -1,3 +1,4 @@
+import crewlog
 import instaloader
 
 username = "kullanıcı_ad"
